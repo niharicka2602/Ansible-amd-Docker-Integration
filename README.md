@@ -15,5 +15,12 @@ The following Plays are executed by the Ansible PlayBook in the Target Node — 
 ➼ Copy the html code from Controller Node to "/var/www/html" directory inside the newly launched Docker Container <br>
 ➼ Access the webpage using “curl” command inside the container <br>
 <br><br>
-For detailed blog visit-- 
+
+Requirements —
+<br> A Controller Node with Ansible Installation
+<br> A Target Node
+<br> Internet Connectivity
+
+<br><br>
+For detailed blog visit —
 <br> https://niharicka.medium.com/configure-docker-services-using-ansible-playbooks-8edf325380dc <br>
