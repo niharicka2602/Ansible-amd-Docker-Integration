@@ -1,4 +1,4 @@
-# Ansible-amd-Docker-Integration
+# Ansible-and-Docker-Integration
 Building Ansible playbook to configure docker and running HTTPD service inside the container
 <br><br>
 The following Plays are executed by the Ansible PlayBook in the Target Node — <br>
