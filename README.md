@@ -82,7 +82,7 @@ Feel free to check [issues page](https://github.com/niharicka2602/Ansible-and-Do
 
 👤 **NIHARIKA DHANIK**
 
-- Twitter: [Niharika](https://twitter.com/FranckAbgrall)
+- Twitter: [Niharika](https://twitter.com)
 - Github: [niharicka2602](https://github.com/niharicka2602?tab=repositories)
 - Blog : [Niharika Dhanik](https://niharicka.medium.com/configure-docker-services-using-ansible-playbooks-8edf325380dc)
 <br/>
